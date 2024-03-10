@@ -1,0 +1,15 @@
+site_name: Flyingcars.blog
+theme:
+  name: material
+  features:
+    - navigation.sections
+plugins:
+  - blog
+  - search
+  - tags
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
+
