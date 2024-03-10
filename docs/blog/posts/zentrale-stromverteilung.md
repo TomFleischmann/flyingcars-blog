@@ -1,6 +1,6 @@
 ---
 title: 'Aufbau der zentralen Stromverteilung'
-date: '2022-04-28T18:44:48+01:00'
+date: '2022-04-28'
 author: Tom
 excerpt: 'Mal ein kurzer Bild-Beitrag zum Aufbau unseres Schaltschrankes mit der Unterverteilung, ein paar Details zu den Zählern und der Vernetzung.'
 layout: post
