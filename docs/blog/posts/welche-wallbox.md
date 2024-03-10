@@ -1,6 +1,6 @@
 ---
 title: 'Welche Wallbox im Garagenhof?'
-date: '2022-04-12T10:42:25+01:00'
+date: '2022-04-12'
 author: Tom
 excerpt: 'Die Auswahl einer Wallbox für den Garagenhof muss einige Randbedingungen erfüllen. Hier kurz unsere Hauptkriterien und warum wir uns für ein Keba System entschieden haben..'
 layout: post
