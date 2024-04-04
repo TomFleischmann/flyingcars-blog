@@ -21,7 +21,7 @@ Um eine Wallbox mit der 2021 laufenden KFW-Förderung von 11 KW oder zukunftssic
  Um jede Garage mit Strom für eine Wallbox zu versorgen hat man dann im Grunde zwei Möglichkeiten. Entweder an der Rückseite der Garagen die Versorgungskabel entlangführen und dann von außen jeweils in jede Garage führen. Alternativ geht man mit allen Kabeln von einer Stirnseite in die erste Garage und dann innen mit einem Kabelkanal oder Kabelwanne jeweils durch die Garagen. Wir haben uns für die zweite Lösung entscheiden weil die Kabelführung außen mit Witterungsschutz, Einblechung und teilweise nicht zugänglichen Rückseiten nicht realisierbar war.
 
 <figure markdown="span">
-  ![3D-Modell](/img/Garagenhof.png){ width="300" }
+  ![3D-Modell](./img/Garagenhof.png){ width="300" }
   <figcaption>Garagenhof im ersten 3D-Modell</figcaption>
 </figure>
 
