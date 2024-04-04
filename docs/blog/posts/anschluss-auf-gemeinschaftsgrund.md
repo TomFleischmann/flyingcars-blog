@@ -1,6 +1,6 @@
 ---
 title: 'Hausanschluss auf Gemeinschaftsgrund'
-date: '2022-01-30'
+date: 2022-01-30
 author: Tom
 excerpt: 'Wer plant im Garagenhof einen Hausanschluss für die Stromversorgung der Garagen zu installieren, kann sich an dieser Reihenfolge orientieren...'
 layout: post
