@@ -51,3 +51,5 @@ Verwendung natürlich ohne Haftung und Gewährleistung auf eigenes Risiko. Darin
 14. Stilllegung der Anlage
 15. Erhöhung der Leistung (von initial 3x 50A auf bis zu 3x 160A möglich)
 16. Skizzen, etc.
+
+    
