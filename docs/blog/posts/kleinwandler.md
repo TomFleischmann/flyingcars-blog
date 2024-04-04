@@ -1,6 +1,6 @@
 ---
 title: 'Ihr braucht eine Kleinwandleranlage?'
-date: '2021-12-21'
+date: 2021-12-21
 author: Tom
 excerpt: 'Um mehrere Wallboxen zu betrieben reicht der schwarze Zähler wahrscheinlich nicht aus... '
 layout: post
