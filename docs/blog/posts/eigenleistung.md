@@ -1,6 +1,6 @@
 ---
 title: Eigenleistung
-date: '2022-01-30'
+date: 2022-01-30
 author: Tom
 excerpt: 'Zur Kostenoptimierung hatten wir uns entscheiden ein paar Arbeiten im Garagenhof selbst zu machen... '
 layout: post
